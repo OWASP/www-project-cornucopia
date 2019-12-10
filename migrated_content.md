@@ -28,7 +28,7 @@ auto-migrated: 1
 <p>OWASP Cornucopia is a mechanism in the form of a card game to assist software development teams identify security requirements in Agile, conventional and formal development processes. It is language, platform and technology agnostic.</p>
 <h2 id="introduction">Introduction</h2>
 <p>The idea behind Cornucopia is to help development teams, especially those using Agile methodologies, to identify application security requirements and develop security-based user stories. Although the idea had been waiting for enough time to progress it, the final motivation came when <a href="http://www.safecode.org/">SAFECode</a> published its <a href="http://www.safecode.org/publications/SAFECode_Agile_Dev_Security0712.pdf">Practical Security Stories and Security Tasks for Agile Development Environments</a> in July 2012.</p>
-<p>The Microsoft SDL team had already published its super <a href="http://www.microsoft.com/security/sdl/adopt/eop.aspx">Elevation of Privilege: The Threat Modeling Game</a> (EoP) but that did not seem to address the most appropriate kind of issues that web application development teams mostly have to address. EoP is a great concept and game strategy, and was <a href="http://blogs.msdn.com/b/sdl/archive/2010/03/02/announcing-elevation-of-privilege-the-threat-modeling-game.aspx">published under</a> a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</a>. Cornucopia {{#switchtablink:Ecommerce Website Edition|Ecommerce Website Edition}} is based the concepts and game ideas in EoP, but those have been modified to be more relevant to the types of issues ecommerce website developers encounter. It attempts to introduce threat-modelling ideas into development teams that use Agile methodologies, or are more focused on web application weaknesses than other types of software vulnerabilities or are not familiar with STRIDE and DREAD.</p>
+<p>The Microsoft SDL team had already published its super <a href="http://www.microsoft.com/security/sdl/adopt/eop.aspx">Elevation of Privilege: The Threat Modeling Game</a> (EoP) but that did not seem to address the most appropriate kind of issues that web application development teams mostly have to address. EoP is a great concept and game strategy, and was <a href="http://blogs.msdn.com/b/sdl/archive/2010/03/02/announcing-elevation-of-privilege-the-threat-modeling-game.aspx">published under</a> a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</a>. Cornucopia #switchtablink:Ecommerce Website Edition|Ecommerce Website Edition}} is based the concepts and game ideas in EoP, but those have been modified to be more relevant to the types of issues ecommerce website developers encounter. It attempts to introduce threat-modelling ideas into development teams that use Agile methodologies, or are more focused on web application weaknesses than other types of software vulnerabilities or are not familiar with STRIDE and DREAD.</p>
 <h2 id="the_card_decks">The Card Decks</h2>
 <p><em>Ecommerce Website Edition</em></p>
 <p>Instead of EoP’s STRIDE suits, Cornucopia suits were selected based on the structure of the <a href="https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide">OWASP Secure Coding Practices - Quick Reference Guide</a> (SCP), but with additional consideration of sections in the <a href="https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project">OWASP Application Security Verification Standard</a>, the <a href="https://www.owasp.org/index.php/OWASP_Testing_Project">OWASP Testing Guide</a> and David Rook’s <a href="http://www.securityninja.co.uk/secure-development/the-principles-place/">Principles of Secure Development</a>. These provided five suits, and a sixth called “Cornucopia” was created for everything else:</p>
@@ -71,8 +71,8 @@ auto-migrated: 1
 <li>Get those infosec folk to provide chocolate, pizza, beer, flowers or all four as prizes</li>
 <li>Select a portion of the deck to start with</li>
 <li>Select a portion of the deck to start with</li>
-<li>{{#switchtablink:How to Play|Play the game}} to discuss &amp; document security requirements (and to win rounds)</li>
-<li>{{#switchtablink:How to Play|Play the game}} to discuss &amp; document security requirements (and to win rounds)</li>
+<li>#switchtablink:How to Play|Play the game}} to discuss &amp; document security requirements (and to win rounds)</li>
+<li>#switchtablink:How to Play|Play the game}} to discuss &amp; document security requirements (and to win rounds)</li>
 <li>Remember, points make prizes!</li>
 <li>Remember, points make prizes!</li>
 </ul>
@@ -112,7 +112,7 @@ auto-migrated: 1
 <ul>
 <li><a href="https://youtu.be/i5Y0akWj31k">How to Play</a> video</li>
 <li><a href="https://www.owasp.org/index.php/File:Cornucopia-scoresheet.pdf">Scoresheet</a></li>
-<li>{{#switchtablink:Get the Cards|All sources and downloads...}}</li>
+<li>#switchtablink:Get the Cards|All sources and downloads...}}</li>
 </ul>
 <h2 id="reference_files">Reference Files</h2>
 <ul>
@@ -717,7 +717,7 @@ deck, probably using the wonderful [OWASP Mobile Security
 Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
 as inspiration for the card source materials. Do you have an idea for
 your own application security requirements card deck? Perhaps for
-{{\#switchtablink:Mobile App Edition|mobile apps}} or something else?
+\#switchtablink:Mobile App Edition|mobile apps}} or something else?
 
 # About Ecommerce Website Edition
 
