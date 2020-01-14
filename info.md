@@ -4,18 +4,7 @@
 * [All sources and downloads...](/www-project-cornucopia#div-cards)
 
 ### What is Cornucopia?
-* OWASP Cornucopia is a card game used to help derive application security requirements during the software development life cycle. To start using Cornucopia:
-
-1. Download the document
-1. Print the cards onto plain paper or pre-scored card
-1. Cut/separate the individual cards
-1. Identify an application, module or component to assess
-1. Invite business owners, architects, developers, testers along for a card game
-1. Get those infosec folk to provide chocolate, pizza, beer, flowers or all four as prizes
-1. Select a portion of the deck to start with
-1. [Play the game](/www-project-cornucopia#div-cards) to discuss & document security requirements (and to win rounds)
-1. Remember, points make prizes!
-
+* OWASP Cornucopia is a card game used to help derive application security requirements during the software development life cycle. 
 * Listen to the [OWASP 24/7 Podcast](http://trustedsoftwarealliance.com/2014/03/21/the-owasp-cornucopia-project-with-colin-watson/) about Cornucopia.
 
 ### Project Information
