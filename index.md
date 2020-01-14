@@ -13,7 +13,7 @@ type: documentation
 [![OWASP Lab](https://img.shields.io/badge/owasp-lab%20project-yellow.svg)](/projects)
 [![Twitter Follow](https://img.shields.io/twitter/follow/OWASPCornucopia?style=social)](https://twitter.com/OWASPCornucopia)
 
-![OWASP Cornucopia Ecommerce Website Edition playing cards](assets/images/Cornucopia-header.png)
+![OWASP Cornucopia Ecommerce Website Edition playing cards](assets/images/Cornucopia-header.jpg)
 
 OWASP Cornucopia is a mechanism in the form of a card game to assist software development teams identify security requirements in Agile, conventional and formal development processes. It is language, platform and technology agnostic.
 
