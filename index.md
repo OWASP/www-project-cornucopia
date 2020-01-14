@@ -22,6 +22,18 @@ The idea behind Cornucopia is to help development teams, especially those using 
 
 The Microsoft SDL team had already published its super [Elevation of Privilege: The Threat Modeling Game](http://www.microsoft.com/security/sdl/adopt/eop.aspx) (EoP) but that did not seem to address the most appropriate kind of issues that web application development teams mostly have to address. EoP is a great concept and game strategy, and was [published under](http://blogs.msdn.com/b/sdl/archive/2010/03/02/announcing-elevation-of-privilege-the-threat-modeling-game.aspx) a [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/). Cornucopia Ecommerce Website Edition is based the concepts and game ideas in EoP, but those have been modified to be more relevant to the types of issues ecommerce website developers encounter. It attempts to introduce threat-modelling ideas into development teams that use Agile methodologies, or are more focused on web application weaknesses than other types of software vulnerabilities or are not familiar with STRIDE and DREAD.
 
+To start using Cornucopia:
+
+1. Download the document
+1. Print the cards onto plain paper or pre-scored card
+1. Cut/separate the individual cards
+1. Identify an application, module or component to assess
+1. Invite business owners, architects, developers, testers along for a card game
+1. Get those infosec folk to provide chocolate, pizza, beer, flowers or all four as prizes
+1. Select a portion of the deck to start with
+1. [Play the game](/www-project-cornucopia#div-cards) to discuss & document security requirements (and to win rounds)
+1. Remember, points make prizes!
+
 ## The Card Decks
 ### Ecommerce Website Edition
 
