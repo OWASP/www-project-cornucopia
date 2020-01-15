@@ -9,7 +9,7 @@ tags: cc
 
 ## Road Map and Getting Involved
 
-<img src="assets/images/Cornucopia-card-authentication-7.png" alt="Cornucopia Card Authentication - 7" class="fa-pull-right">
+<img src="assets/images/Cornucopia-card-authentication-7.png" alt="Cornucopia Card Authentication - 7" class="fa-pull-right" style="padding:1em;background-color:#dddddd;margin:0 0 1em 2em;">
 
 Involvement in the development and promotion of Cornucopia is actively encouraged! You do not have to be a security expert in order to contribute. Some of the ways you can help are listed below.
 
@@ -26,7 +26,7 @@ Please help raise awareness of Cornucopia by printing cards:
 
 ### Feedback
 
-<img src="assets/images/Cornucopia-card-joker-a.png" alt="Cornucopia Card Joker" class="fa-pull-right">
+<img src="assets/images/Cornucopia-card-joker-a.png" alt="Cornucopia Card Joker" class="fa-pull-right" style="padding:1em;background-color:#dddddd;margin:0 0 1em 2em;">
 
 Please use the friendly project [Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/cornucopia-project) for feedback:
 
