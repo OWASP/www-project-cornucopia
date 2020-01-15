@@ -13,7 +13,7 @@ It is possible to play Cornucopia in many different ways. Here is one way, and e
 
 ### Primary method
 
-<img src="assets/images/Cornucopia-card-cornucopia-K.png" alt="Cornucopia card Cornucopia - King" class="fab.fa-pull-right fa-pull-right" style="padding:1em;background-color:red;">
+<img src="assets/images/Cornucopia-card-cornucopia-K.png" alt="Cornucopia card Cornucopia - King" class="fa-pull-right" style="padding:1em;background-color:#dddddd;margin-left:2em;">
 
 #### A - Preparations
 
