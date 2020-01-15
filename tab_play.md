@@ -13,7 +13,7 @@ It is possible to play Cornucopia in many different ways. Here is one way, and e
 
 ### Primary method
 
-<img src="assets/images/Cornucopia-card-cornucopia-K.png" alt="Cornucopia card Cornucopia - King" class="fa-pull-right" style="padding:1em;background-color:#dddddd;margin-left:2em;">
+<img src="assets/images/Cornucopia-card-cornucopia-K.png" alt="Cornucopia card Cornucopia - King" class="fa-pull-right" style="padding:1em;background-color:#dddddd;margin:0 0 1em 2em;">
 
 #### A - Preparations
 
@@ -47,7 +47,7 @@ B7.	Repeat until all the cards are played
 
 #### C - Scoring
 
-<img src="assets/images/Cornucopia-card-session-9.png" alt="Cornucopia card Session Management - 9" class="fa-pull-right">
+<img src="assets/images/Cornucopia-card-session-9.png" alt="Cornucopia card Session Management - 9" class="fa-pull-right" style="padding:1em;background-color:#dddddd;margin:0 0 1em 2em;">
 
 The objective is to identify applicable threats, and win hands (rounds):
 
