@@ -9,7 +9,7 @@ tags: cc
 
 ## Frequently Asked Questions
 
-<img src="assets/images/Cornucopia-card-authorization-8.png" alt="Cornucopia card Authorization - 8" class="fa-pull-right">
+<img src="assets/images/Cornucopia-card-authorization-8.png" alt="Cornucopia card Authorization - 8" class="fa-pull-right" style="padding:1em;background-color:#dddddd;margin:0 0 1em 2em;">
 
 ### Can I copy or edit the game?
 Yes of course. All OWASP materials are free to do with as you like provided you comply with the Creative Commons Attribution-ShareAlike 3.0 license. Perhaps if you create a new version, you might donate it to the OWASP Cornucopia Project?
@@ -22,7 +22,7 @@ There is quite a lot of text on the cards, and the cross-referencing takes up sp
 ### Are the attacks ranked by the number on the card?
 Only approximately. The risk will be application and organisation dependent, due to varying security and compliance requirements, so your own severity rating may place the cards in some other order than the numbers on the cards.
 
-<img src="assets/images/Cornucopia-card-cryptography-j.png" alt="Cornucopia card Cryptography - Jack" class="fa-pull-right">
+<img src="assets/images/Cornucopia-card-cryptography-j.png" alt="Cornucopia card Cryptography - Jack" class="fa-pull-right" style="padding:1em;background-color:#dddddd;margin:0 0 1em 2em;">
 
 ### How long does it take to play a round of cards using the full deck?
 This depends upon the amount of discussion and how familiar the players are with application security concepts. But perhaps allow 1.5 to 2.0 hours for 4-6 people.
