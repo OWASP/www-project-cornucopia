@@ -11,7 +11,7 @@ tags: cc
 
 ### Volunteers
 
-<img src="assets/images/Cornucopia-card-data-A.png" alt="Cornucopia card Data Validation and Encoding- Ace" class="fa-pull-right">
+<img src="assets/images/Cornucopia-card-data-A.png" alt="Cornucopia card Data Validation and Encoding - Ace" class="fa-pull-right" style="padding:1em;background-color:#dddddd;margin:0 0 1em 2em;">
 
 Cornucopia is developed, maintained, updated and promoted by a worldwide team of volunteers. The contributors to date have been:
 
