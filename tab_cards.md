@@ -29,7 +29,7 @@ Professionally printed decks are available by two methods:
 Cornucopia - Ecommerce Website Edition:
 
 *v1.20 (current version)*
-  * [EN DOC](https://github.com/OWASP/www-project-cornucopia/tree/master/assets/files/ecommerce/EN), [FR DOC](), [PT-BR DOC](https://github.com/wagnerfusca/OWASP-Cornucopia-Translate-Cards---PT)
+  * [EN DOC](https://github.com/OWASP/www-project-cornucopia/tree/master/assets/files/ecommerce/EN), [FR DOC](https://github.com/grandtom/OWASP-Cornucopia-Translate-Cards---FR), [PT-BR DOC](https://github.com/wagnerfusca/OWASP-Cornucopia-Translate-Cards---PT)
   * [EN PDF](assets/files/Owasp-cornucopia-ecommerce_website-EN.pdf)
   * [Print-Ready design files](https://drive.google.com/open?id=0ByNJ8mfWALwjNXpQMUNBYnJsT2QyQ0lkb3VNX1BCM3JLNlBZ) 24Mb zip
 
