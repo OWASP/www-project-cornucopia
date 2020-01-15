@@ -1,0 +1,45 @@
+# OWASP Cornucopia - Ecommerce Website Edition - EN
+# Change Log
+====================================
+
+## Unrealeased
+
+
+## v1.21t - 13 July 2018
+- showing content changes highlighted
+
+## v1.20 - 29 June 2016
+
+## v1.20t - 29 June 2016
+- showing content changes highlighted
+
+## v1.10 - 31 March 2015
+
+## v1.10t - 31 March 2015
+- showing content changes highlighted
+
+## v1.05 - 21 March 2014
+
+## v1.05t - 21 March 2014
+- showing content changes highlighted
+
+## v1.04 - 21 March 2014
+
+## v1.04t - 21 March 2014
+- showing content changes highlighted
+
+## v1.03 - 18 September 2013
+
+## v1.03t - 18 September 2013
+- showing content changes highlighted
+
+## v1.02 - 14 August 2013
+
+## v1.01 - 03 June 2013
+
+## v1.00 - 25 February 2013
+
+## v0.40 - 25 February 2013
+
+## initial - 15 August 2012 
+- OWASP Cornucopia - Ecommerce Website Edition
