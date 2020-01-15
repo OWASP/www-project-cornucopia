@@ -52,18 +52,31 @@ If option 1 above, you can order these in bulk from OWASP and attach your own de
 The precise wording will depend how the material is being used or reproduced. Under Creative Commons Attribution-ShareAlike 3.0 license it is necessary to attribute all previous contributions (in this case, Microsoft, Boeing, Mitre, etc). The easiest place to put the wording is on the leaflet (folded inside, or separate booklet). The current required long-form wording is:
 
 > OWASP Cornucopia is licensed under the Creative Commons Attribution-ShareAlike 3.0 license http://creativecommons.org/licenses/by-sa/3.0/
+
 > The files used to create these materials were created from the OWASP project and are also open source, and are licensed under the same conditions. 
+
 > OWASP Cornucopia can be downloaded for free from the OWASP website and printed yourself. The OWASP Cornucopia project source in vendor neutral and unbranded.
+
 > OWASP does not endorse or recommend commercial products or services.
+
 > © 2012-2018 OWASP Foundation
+
 > This document is licensed under the Creative Commons Attribution-ShareAlike 3.0 license.
+
 > Acknowledgments:
+
 > Microsoft SDL Team for the Elevation of Privilege Threat Modelling Game, published under a Creative Commons Attribution license, as the inspiration for Cornucopia and from which many ideas, especially the game theory, were copied.
+
 > Keith Turpin and contributors to the “OWASP Secure Coding Practices - Quick Reference Guide”, originally donated to OWASP by Boeing, which is used as the primary source of security requirements information to formulate the content of the cards.
+
 > Contributors, supporters, sponsors and volunteers to the OWASP ASVS, AppSensor and Web Framework Security Matrix projects, Mitre’s Common Attack Pattern Enumeration and Classification (CAPEC), and SAFECode’s “Practical Security Stories and Security Tasks for Agile Development Environments” which are all used in the cross-references provided.
+
 > Playgen for providing an illuminating afternoon seminar on task gamification, and tartanmaker.com for the online tool to help create the card back pattern.
+
 > Blackfoot UK Limited for creating and donating print-ready design files, Tom Brennan and the OWASP Foundation for instigating the creation of an OWASP-branded box and leaflet, and OWASP employees, especially Kate Hartmann, for managing the ordering, stocking and despatch of printed card decks.
+
 > Oana Cornea and other participants at the AppSec EU 2015 project summit for their help in creating the demonstration video.
+
 > Colin Watson as author and co-project leader with Darío De Filippis, along with other OWASP volunteers who have helped in many ways.
 
 
@@ -99,6 +112,6 @@ Whatever is used as a starting point, please state the source version, for examp
 
 Additionally individuals, companies and other organisations must not breach OWASP's brand usage guidelines.
 
-> [https://www2.owasp.org/www-policy/operational/branding.html](/www-policy/operational/branding.html)
+> [https://www.owasp.org/www-policy/operational/branding.html](/www-policy/operational/branding.html)
  
 In the case of Cornucopia, in 2014 Blackfoot Limited produced some printed decks of cards. Blackfoot's name and logo did not appear anywhere on the OWASP-branded cards, and the OWASP logo did not appear on the Blackfoot-branded box and leaflet. In fact there is no OWASP logo on any part of the Blackfoot branded decks.
