@@ -28,17 +28,17 @@ Professionally printed decks are available by two methods:
 
 Cornucopia - Ecommerce Website Edition:
 
-* v1.20 (current version)
- * [EN DOC](https://github.com/OWASP/www-project-cornucopia/tree/master/assets/files/ecommerce/EN) | [FR DOC]() | [PT-BR DOC](https://github.com/wagnerfusca/OWASP-Cornucopia-Translate-Cards---PT)
- * [EN PDF](assets/files/Owasp-cornucopia-ecommerce_website-EN.pdf)
- * [Print-Ready design files](https://drive.google.com/open?id=0ByNJ8mfWALwjNXpQMUNBYnJsT2QyQ0lkb3VNX1BCM3JLNlBZ) 24Mb zip
+*v1.20 (current version)*
+  * [EN DOC](https://github.com/OWASP/www-project-cornucopia/tree/master/assets/files/ecommerce/EN), [FR DOC](), [PT-BR DOC](https://github.com/wagnerfusca/OWASP-Cornucopia-Translate-Cards---PT)
+  * [EN PDF](assets/files/Owasp-cornucopia-ecommerce_website-EN.pdf)
+  * [Print-Ready design files](https://drive.google.com/open?id=0ByNJ8mfWALwjNXpQMUNBYnJsT2QyQ0lkb3VNX1BCM3JLNlBZ) 24Mb zip
 
-* v1.1 EN
+*v1.1 EN*
  * DOC - see current version link above for previous versions of DOC including with track changes
  * Wiki
  * [Print-Ready design files](https://drive.google.com/open?id=0ByNJ8mfWALwjb283ZE5GNmFMM2FGWGl2WC14aDJDQ0ZsNk00) 24Mb zip
 
-* v1.04 EN
+*v1.04 EN*
  * DOC - see current version link above for previous versions of DOC including with track changes
  * [Print-Ready design files](https://4ed64fe7f7e3f627b8d0-bc104063a9fe564c2d8a75b1e218477a.ssl.cf2.rackcdn.com/cornucopia-ecom-1v04-blackfoot.zip) (gifted by Blackfoot UK) 47Mb Zip
 
@@ -52,7 +52,7 @@ The current version of Cornucopia Ecommerce Website Edition cards (v1.20 with up
 
 There are also other ways to obtain particular versions:
 
-* Download the free PDF (v1.03) (gifted by Travelex)
+* Download the free [PDF](assets/files/Owasp_cornucopia_printreadyimages-1v03.zip) (v1.03) (gifted by Travelex)
  * Have the cards commercially printed; or
  * Import into your own files (such as [this way](http://lists.owasp.org/pipermail/owasp_cornucopia/2014-January/000018.html) suggested by Cam Morris via the mailing list)
 
