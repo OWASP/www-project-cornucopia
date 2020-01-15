@@ -9,9 +9,7 @@ tags: cc
 
 ## Road Map and Getting Involved
 
-<img src="assets/images/Cornucopia-card-authentication-7.png" alt="" class="fa-pull-right">
-
-<img src="assets/images/Cornucopia-card-joker-a.png" alt="" class="fa-pull-right">
+<img src="assets/images/Cornucopia-card-authentication-7.png" alt="Cornucopia Card Authentication - 7" class="fa-pull-right">
 
 Involvement in the development and promotion of Cornucopia is actively encouraged! You do not have to be a security expert in order to contribute. Some of the ways you can help are listed below.
 
@@ -27,6 +25,8 @@ Please help raise awareness of Cornucopia by printing cards:
 * Develop a mobile app to play the game
 
 ### Feedback
+
+<img src="assets/images/Cornucopia-card-joker-a.png" alt="Cornucopia Card Joker" class="fa-pull-right">
 
 Please use the friendly project [Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/cornucopia-project) for feedback:
 
@@ -45,7 +45,3 @@ As the source referenced documents change, we have to update the decks. You may 
 The only version currently available is the Cornucopia Ecommerce Website Edition in English. We would like to create a new mobile app specific deck, probably using the wonderful OWASP Mobile Security Project as inspiration for the card source materials. Do you have an idea for your own application security requirements card deck? Perhaps for mobile apps or something else?
 
 
-
-![](assets/images/Cornucopia-card-authentication-7.png)
-
-ddd
