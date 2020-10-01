@@ -1,5 +1,7 @@
 ### Quick Links
-* [How to Play video](https://youtu.be/i5Y0akWj31k)
+* How to Play video:
+    * [Project Team: v1.00](https://youtu.be/i5Y0akWj31k)
+    * [RBI Version: v1.20](https://youtu.be/BZVoQurTEMc)
 * [Scoresheet](assets/files/Cornucopia-scoresheet.pdf)
 * [All sources and downloads...](/www-project-cornucopia#div-cards)
 
