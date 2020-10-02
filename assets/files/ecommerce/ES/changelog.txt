@@ -1,0 +1,6 @@
+# OWASP Cornucopia - Ecommerce Website Edition - ES
+# Change Log
+====================================
+
+## v1.20 - 02 Oct 2020
+- translation into Spanish of v1.20 EN
