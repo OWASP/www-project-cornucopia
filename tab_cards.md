@@ -15,14 +15,18 @@ The primary source document is a [Word document](https://github.com/OWASP/www-pr
 
 ### Printed
 
-Professionally printed decks are available by two methods:
+Professionally printed decks are available for free as follows:
 
 * Single decks or in bulk from OWASP (v1.20)
- * As promotion items by OWASP Leaders from their own chapter budgets using the [Chapter and Project Merchandise Request form](https://docs.google.com/a/owasp.org/forms/d/e/1FAIpQLSez9mV97HuqvYhCldE2hYhX3UjQM1oO5bLy44HkOZSpni0OzQ/viewform?formkey=dF85bGtvdWdrd2JjYldNZ1gxSkJxaEE6MQ)
- * For other individuals, organisations and companies, please email [lisa.jones@owasp.com](mailto:lisa.jones@owasp.com) with purchase inquiries.
-* Request a free deck of cards gifted by [Blackfoot UK Limited](http://blackfootuk.com/):
- * Request a free [pack of cards (v1.10)](http://blackfootuk.com/cornucopia/receive-a-set-of-cards/) (gifted by Blackfoot UK)
+  * As promotion items by OWASP Leaders from their own chapter budgets using the [Chapter and Project Merchandise Request form](https://docs.google.com/a/owasp.org/forms/d/e/1FAIpQLSez9mV97HuqvYhCldE2hYhX3UjQM1oO5bLy44HkOZSpni0OzQ/viewform?formkey=dF85bGtvdWdrd2JjYldNZ1gxSkJxaEE6MQ)
+  * For other individuals, organisations and companies, please email [lisa.jones@owasp.com](mailto:lisa.jones@owasp.com) with purchase inquiries.
+* Request a free [pack of cards (v1.10)](http://blackfootuk.com/cornucopia/receive-a-set-of-cards/):
+  * gifted by [Blackfoot UK Limited](http://blackfootuk.com/)
+* For a pack of (v1.20) cards:
+  * [reach out](mailto:cornucopia@securedelivery.io?subject=Cornucopia) to [Secure Delivery](https://securedelivery.io); or 
+  * [contact](mailto:kcollier@equalexperts.com?subject=Cornucopia) the team at [Equal Experts](https://www.equalexperts.com/) for a deck 
 
+OWASP does not endorse or recommend commercial products or services, however, [Agile Stationary](https://agilestationery.co.uk/) offer [large print (v1.20) decks](https://agilestationery.co.uk/products/owasp-cornucopia-card-deck-ecommerce-website-edition) at a discount to OWASP Members. They also offer a [croupier](https://croupier.agilestationery.co.uk/) to help you distribute cards to team members.
 
 ### Source files
 
@@ -55,8 +59,6 @@ There are also other ways to obtain particular versions:
 * Download the free [PDF](assets/files/Owasp_cornucopia_printreadyimages-1v03.zip) (v1.03) (gifted by Travelex)
  * Have the cards commercially printed; or
  * Import into your own files (such as [this way](http://lists.owasp.org/pipermail/owasp_cornucopia/2014-January/000018.html) suggested by Cam Morris via the mailing list)
-
-OWASP does not endorse or recommend commercial products or services.
 
 ### Twitter
 
