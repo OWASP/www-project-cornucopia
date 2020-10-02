@@ -24,9 +24,10 @@ The Microsoft SDL team had already published its super [Elevation of Privilege: 
 
 To start using Cornucopia:
 
-1. Download the document
-1. Print the cards onto plain paper or pre-scored card
-1. Cut/separate the individual cards
+1. Either: Obtain or buy a pre-printed deck of cards
+1. Or: Download the document
+   1. Print the cards onto plain paper or pre-scored card
+   1. Cut/separate the individual cards
 1. Identify an application, module or component to assess
 1. Invite business owners, architects, developers, testers along for a card game
 1. Get those infosec folk to provide chocolate, pizza, beer, flowers or all four as prizes
