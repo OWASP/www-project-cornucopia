@@ -19,7 +19,7 @@ Professionally printed decks are available for free as follows:
 
 * Single decks or in bulk from OWASP (v1.20)
   * As promotion items by OWASP Leaders from their own chapter budgets using the [Chapter and Project Merchandise Request form](https://docs.google.com/a/owasp.org/forms/d/e/1FAIpQLSez9mV97HuqvYhCldE2hYhX3UjQM1oO5bLy44HkOZSpni0OzQ/viewform?formkey=dF85bGtvdWdrd2JjYldNZ1gxSkJxaEE6MQ)
-  * For other individuals, organisations and companies, please email [lisa.jones@owasp.com](mailto:lisa.jones@owasp.com) with purchase inquiries.
+  * For other individuals, organisations and companies, please email[dawn.aitken@owasp.com](mailto:dawn.aitken@owasp.com) with purchase inquiries.
 * Request a free [pack of cards (v1.10)](http://blackfootuk.com/cornucopia/receive-a-set-of-cards/):
   * gifted by [Blackfoot UK Limited](http://blackfootuk.com/)
 * For a pack of (v1.20) cards:
