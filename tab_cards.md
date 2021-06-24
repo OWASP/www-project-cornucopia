@@ -20,8 +20,6 @@ Professionally printed decks are available for free as follows:
 * Single decks or in bulk from OWASP (v1.20)
   * As promotion items by OWASP Leaders from their own chapter budgets using the [Chapter and Project Merchandise Request form](https://docs.google.com/a/owasp.org/forms/d/e/1FAIpQLSez9mV97HuqvYhCldE2hYhX3UjQM1oO5bLy44HkOZSpni0OzQ/viewform?formkey=dF85bGtvdWdrd2JjYldNZ1gxSkJxaEE6MQ)
   * For other individuals, organisations and companies, please [Contact OWASP](https://contact.owasp.org) with purchase inquiries.
-* Request a free [pack of cards (v1.10)](http://blackfootuk.com/cornucopia/receive-a-set-of-cards/):
-  * gifted by [Blackfoot UK Limited](http://blackfootuk.com/)
 * For a pack of (v1.20) cards:
   * [reach out](mailto:cornucopia@securedelivery.io?subject=Cornucopia) to [Secure Delivery](https://securedelivery.io); or 
   * [contact](mailto:kcollier@equalexperts.com?subject=Cornucopia) the team at [Equal Experts](https://www.equalexperts.com/) for a deck 
@@ -32,7 +30,7 @@ OWASP does not endorse or recommend commercial products or services, however, [A
 
 Cornucopia - Ecommerce Website Edition:
 
-*v1.20 (current version)*
+*v1.2x (current version)*
   * DOCX: [EN](https://github.com/OWASP/www-project-cornucopia/tree/master/assets/files/ecommerce/EN), [ES](https://github.com/OWASP/www-project-cornucopia/tree/master/assets/files/ecommerce/ES), [FR](https://github.com/grandtom/OWASP-Cornucopia-Translate-Cards---FR), [PT-BR](https://github.com/wagnerfusca/OWASP-Cornucopia-Translate-Cards---PT)
   * PDF: [EN](assets/files/Owasp-cornucopia-ecommerce_website-EN.pdf)
   * Print-ready design files: [EN](https://drive.google.com/open?id=0ByNJ8mfWALwjNXpQMUNBYnJsT2QyQ0lkb3VNX1BCM3JLNlBZ) 24Mb zip, ES coming soon
