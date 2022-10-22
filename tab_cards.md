@@ -31,32 +31,19 @@ OWASP does not endorse or recommend commercial products or services, however, [A
 Cornucopia - Ecommerce Website Edition:
 
 *v1.2x (current version)*
-  * DOCX: [EN](https://github.com/OWASP/www-project-cornucopia/tree/master/assets/files/ecommerce/EN), [ES](https://github.com/OWASP/www-project-cornucopia/tree/master/assets/files/ecommerce/ES), [FR](https://github.com/grandtom/OWASP-Cornucopia-Translate-Cards---FR), [PT-BR](https://github.com/wagnerfusca/OWASP-Cornucopia-Translate-Cards---PT)
-  * PDF: [EN](assets/files/Owasp-cornucopia-ecommerce_website-EN.pdf)
-  * Print-ready design files: [EN](https://drive.google.com/open?id=0ByNJ8mfWALwjNXpQMUNBYnJsT2QyQ0lkb3VNX1BCM3JLNlBZ) 24Mb zip, ES coming soon
+  * DOCX: [EN](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_en_1.21.docx), [ES](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_es_1.21.docx), [FR](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_fr_1.21.docx), [PT-BR](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_pt-br_1.21.docx), [NL](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_nl_1.21.docx)
+  * PDF: [EN](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_en_1.21.pdf), [ES](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_es_1.21.pdf), [FR](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_fr_1.21.pdf), [PT-BR](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_pt-br_1.21.pdf), [NL](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_nl_1.21.pdf)
+  * Print-ready design files: [EN](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_en_1.21.idml), [ES](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_es_1.21.docx), [FR](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_fr_1.21.idml), [PT-BR](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_pt-br_1.21.idml), [NL](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_nl_1.21.idml)
 
-*v1.1 EN*
- * DOCX - see current version link above for previous versions of DOC including with track changes
- * Wiki
- * Print-ready design files: [EN](https://drive.google.com/open?id=0ByNJ8mfWALwjb283ZE5GNmFMM2FGWGl2WC14aDJDQ0ZsNk00) 24Mb zip
+The current version of Cornucopia Ecommerce Website Edition cards (v1.21 with updated mapping to ASVS v3.0.1 and CAPEC v2.8, and has some minor text changes on the cards) can be printed using the following methods:
 
-*v1.04 EN*
- * DOC - see current version link above for previous versions of DOC including with track changes
- * Print-ready design files: [EN](https://4ed64fe7f7e3f627b8d0-bc104063a9fe564c2d8a75b1e218477a.ssl.cf2.rackcdn.com/cornucopia-ecom-1v04-blackfoot.zip) 47Mb Zip (gifted by Blackfoot UK) 
-
-The current version of Cornucopia Ecommerce Website Edition cards (v1.20 with updated mapping to ASVS v3.0.1 and CAPEC v2.8, and has some minor text changes on the cards) can be printed using the following methods:
-
-1. Download the free Adobe Illustrator files (EN) and get them professionally printed
-1. Download and self-print the free document word-processing (EN, FR) or PDF (EN)
+1. Download the free Adobe Illustrator files and get them professionally printed
+1. Download and self-print the free document word-processing or PDF
  1. Print the document onto business card blank cards; or
  1. Print the document onto normal card and cut the cards out individually using the guide; or
 1. Generate your own cards from the free source XML data file
 
 There are also other ways to obtain particular versions:
-
-* Download the free [PDF](assets/files/Owasp_cornucopia_printreadyimages-1v03.zip) (v1.03) (gifted by Travelex)
- * Have the cards commercially printed; or
- * Import into your own files (such as [this way](http://lists.owasp.org/pipermail/owasp_cornucopia/2014-January/000018.html) suggested by Cam Morris via the mailing list)
 
 ### Twitter
 
