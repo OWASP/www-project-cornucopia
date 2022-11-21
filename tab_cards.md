@@ -43,11 +43,7 @@ The current version of Cornucopia Ecommerce Website Edition cards (v1.21 with up
  1. Print the document onto normal card and cut the cards out individually using the guide; or
 1. Generate your own cards from the free source XML data file
 
-There are also other ways to obtain particular versions:
-
-### Twitter
-
-Collect/share/use the pseudo-random cards tweeted twice daily [@OWASPCornucopia](https://twitter.com/OWASPCornucopia)
+There are also other ways to obtain particular versions.
 
 
 
