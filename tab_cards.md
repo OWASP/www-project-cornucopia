@@ -17,9 +17,6 @@ The primary source document is a [Word document](https://github.com/OWASP/cornuc
 
 Professionally printed decks are available for free as follows:
 
-* Single decks or in bulk from OWASP (v1.20)
-  * As promotion items by OWASP Leaders from their own chapter budgets using the [Chapter and Project Merchandise Request form](https://docs.google.com/a/owasp.org/forms/d/e/1FAIpQLSez9mV97HuqvYhCldE2hYhX3UjQM1oO5bLy44HkOZSpni0OzQ/viewform?formkey=dF85bGtvdWdrd2JjYldNZ1gxSkJxaEE6MQ)
-  * For other individuals, organisations and companies, please [Contact OWASP](https://contact.owasp.org) with purchase inquiries.
 * For a pack of (v1.20) cards:
   * [reach out](mailto:cornucopia@securedelivery.io?subject=Cornucopia) to [Secure Delivery](https://securedelivery.io); or 
   * [contact](mailto:kcollier@equalexperts.com?subject=Cornucopia) the team at [Equal Experts](https://www.equalexperts.com/) for a deck 
