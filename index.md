@@ -55,7 +55,7 @@ Future editions such as for mobile app development will use different sources of
 ## Mappings
 The other driver for Cornucopia is to link the attacks with requirements and verification techniques. An initial aim had been to reference [CWE](http://cwe.mitre.org/) weakness IDs, but these proved too numerous, and instead it was decided to map each card to [CAPEC](http://capec.mitre.org/) software attack pattern IDs which themselves are mapped to CWEs, so the desired result is achieved.
 
-Each card is also mapped to the 36 primary security stories in the [SAFECode document](http://www.safecode.org/publications/SAFECode_Agile_Dev_Security0712.pdf), as well as to the OWASP [SCP](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/) v2, [ASVS](https://owasp.org/www-project-application-security-verification-standard/) v3.0.1 and [AppSensor](https://owasp.org/www-project-appsensor/) (application attack detection and response) to help teams create their own security-related stories for use in Agile processes.
+Each card is also mapped to the 36 primary security stories in the [SAFECode document](https://safecode.org/resource-secure-development-practices/fundamental-practices-secure-software-development-2/), as well as to the OWASP [SCP](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/) v2, [ASVS](https://owasp.org/www-project-application-security-verification-standard/) v3.0.1 and [AppSensor](https://owasp.org/www-project-appsensor/) (application attack detection and response) to help teams create their own security-related stories for use in Agile processes.
 
 
 ## Licensing
