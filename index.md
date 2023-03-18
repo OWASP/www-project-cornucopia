@@ -69,8 +69,3 @@ OWASP Cornucopia is free to use. It is licensed under the [Creative Commons Attr
 If you are interested in using gaming for security, also see [Elevation of Privilege: The Threat Modeling Game](https://www.microsoft.com/en-gb/download/details.aspx?id=20303), [Security Cards](http://securitycards.cs.washington.edu/) from the University of Washington, the commercial card game [Control-Alt-Hack](http://www.controlalthack.com/) ([presentation](http://www.youtube.com/watch?v=Kpnvsgiiz8s)), [OWASP Snakes and Ladders](https://owasp.org/www-project-snakes-and-ladders), and web application security training tools incorporating gamification such as [OWASP Hackademic Challenges Project](https://owasp.org/www-project-hackademic-challenges), [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd) and [ITSEC Games](http://itsecgames.blogspot.co.uk/).
 
 Additionally, Adam Shostack maintains a list of tabletop security games and related resources at [security games](http://adam.shostack.org/games.html).
-
-## 20th Anniversary Celebrations
-The Cornucopia project would like to join other [OWASP Projects and Sponsors](https://20thanniversary.owasp.org/supporters/) is support of the 20th anniversary celebration of the Foundations existance. It's been a fantastic 20 year journey and we look forward to the next 20 years!
-
-![20th Anniversary Celebrations](assets/images/OWASP_20th_Anniversary.jpg)
