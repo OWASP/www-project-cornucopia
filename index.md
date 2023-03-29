@@ -11,7 +11,6 @@ type: documentation
 ---
 
 [![OWASP Lab](https://img.shields.io/badge/owasp-lab%20project-yellow.svg)](/projects)
-[![Twitter Follow](https://img.shields.io/twitter/follow/OWASPCornucopia?style=social)](https://twitter.com/OWASPCornucopia)
 
 ![OWASP Cornucopia Ecommerce Website Edition playing cards](assets/images/Cornucopia-header.jpg)
 
