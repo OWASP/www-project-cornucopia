@@ -15,8 +15,7 @@ The primary source document is a [Word document](https://github.com/OWASP/cornuc
 
 ### Printed
 
-Professionally printed decks are available for free as follows:
-
+<!--  Professionally printed decks are available for free as follows: -->
 <!--  For a pack of (v1.20) cards: -->
 <!--    * [reach out](mailto:cornucopia@securedelivery.io?subject=Cornucopia) to [Secure Delivery](https://securedelivery.io); or -->
 <!--    * [contact](mailto:kcollier@equalexperts.com?subject=Cornucopia) the team at [Equal Experts](https://www.equalexperts.com/) for a deck -->
