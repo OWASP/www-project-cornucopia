@@ -17,9 +17,9 @@ The primary source document is a [Word document](https://github.com/OWASP/cornuc
 
 Professionally printed decks are available for free as follows:
 
-<!--  For a pack of (v1.20) cards:
-* [reach out](mailto:cornucopia@securedelivery.io?subject=Cornucopia) to [Secure Delivery](https://securedelivery.io); or
-  * [contact](mailto:kcollier@equalexperts.com?subject=Cornucopia) the team at [Equal Experts](https://www.equalexperts.com/) for a deck -->
+<!--  For a pack of (v1.20) cards: -->
+<!--    * [reach out](mailto:cornucopia@securedelivery.io?subject=Cornucopia) to [Secure Delivery](https://securedelivery.io); or -->
+<!--    * [contact](mailto:kcollier@equalexperts.com?subject=Cornucopia) the team at [Equal Experts](https://www.equalexperts.com/) for a deck -->
 
 OWASP does not endorse or recommend commercial products or services, however, [Agile Stationary](https://agilestationery.co.uk/) offer [large print (v1.20) decks](https://agilestationery.co.uk/products/owasp-cornucopia-card-deck-ecommerce-website-edition) at a discount to OWASP Members. They also offer a [croupier](https://croupier.agilestationery.co.uk/) to help you distribute cards to team members.
 
