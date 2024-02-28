@@ -10,15 +10,14 @@ type: documentation
 
 ---
 
-[![OWASP Lab](https://img.shields.io/badge/owasp-lab%20project-yellow.svg)](/projects)
+[![OWASP Lab](https://img.shields.io/badge/owasp-lab%20project-yellow.svg)](https://owasp.org/other_projects/)
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7125/badge)](https://bestpractices.coreinfrastructure.org/projects/7125)
 [![Maintainability](https://api.codeclimate.com/v1/badges/4a7cda6ef1c2932a34f9/maintainability)](https://codeclimate.com/github/OWASP/cornucopia/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/4a7cda6ef1c2932a34f9/test_coverage)](https://codeclimate.com/github/OWASP/cornucopia/test_coverage)
-[![Twitter Follow](https://img.shields.io/twitter/follow/OWASPCornucopia?style=social)](https://twitter.com/OWASPCornucopia)
 
 ![OWASP Cornucopia Ecommerce Website Edition playing cards](assets/images/Cornucopia-header.jpg)
 
-OWASP Cornucopia is a mechanism in the form of a card game to assist software development teams identify security requirements in Agile, conventional and formal development processes. It is language, platform and technology agnostic.
+OWASP Cornucopia is a mechanism in the form of a card game to assist software development teams identify security requirements in Agile, conventional and formal development processes. It is language, platform and technology-agnostic.
 
 ## Introduction
 The idea behind Cornucopia is to help development teams, especially those using Agile methodologies, to identify application security requirements and develop security-based user stories. Although the idea had been waiting for enough time to progress it, the final motivation came when [SAFECode](http://www.safecode.org/) published its [Practical Security Stories and Security Tasks for Agile Development Environments](https://safecode.org/publication/SAFECode_Agile_Dev_Security0712.pdf) in July 2012.
@@ -28,15 +27,15 @@ The Microsoft SDL team had already published its super [Elevation of Privilege: 
 To start using Cornucopia:
 
 1. Either: Obtain or buy a pre-printed deck of cards
-1. Or: Download the document
+2. Or: Download the document
    1. Print the cards onto plain paper or pre-scored card
-   1. Cut/separate the individual cards
-1. Identify an application, module or component to assess
-1. Invite business owners, architects, developers, testers along for a card game
-1. Get those infosec folk to provide chocolate, pizza, beer, flowers or all four as prizes
-1. Select a portion of the deck to start with
-1. [Play the game](https://owasp.org/www-project-cornucopia/#div-cards) to discuss & document security requirements (and to win rounds)
-1. Remember, points make prizes!
+   2. Cut/separate the individual cards
+3. Identify an application, module or component to assess
+4. Invite business owners, architects, developers, testers along for a card game
+5. Get those infosec folk to provide chocolate, pizza, beer, flowers or all four as prizes
+6. Select a portion of the deck to start with
+7. [Play the game](https://owasp.org/www-project-cornucopia/#div-cards) to discuss & document security requirements (and to win rounds)
+8. Remember, points make prizes!
 
 ## The Card Decks
 ### Ecommerce Website Edition
