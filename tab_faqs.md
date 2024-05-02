@@ -14,11 +14,11 @@ tags: cc
 ### Can I copy or edit the game?
 Yes of course. All OWASP materials are free to do with as you like provided you comply with the Creative Commons Attribution-ShareAlike 3.0 license. Perhaps if you create a new version, you might donate it to the OWASP Cornucopia Project?
 ### How can I get involved?
-Please send ideas or offers of help to the project’s mailing list.
+Please send ideas or offers of help to the project’s List/Group.
 ### How were the attackers’ names chosen?
-EoP begins every description with words like "An attacker can...". These have to be phrased as an attack but I was not keen on the anonymous terminology, wanting something more engaging, and therefore used personal names. These can be thought of as external or internal people or aliases for computer systems. But instead of just random names, I thought how they might reflect the OWASP community aspect. Therefore, apart from "Alice and Bob", I use the given (first) names of current and recent OWASP employees and Board members (assigned in no order), and then randomly selected the remaining 50 or so names from the current list of paying individual OWASP members. No name was used more than once, and where people had provided two personal names, I dropped one part to try to ensure no-one can be easily identified. Names were not deliberately allocated to any particular attack, defence or requirement. The cultural and gender mix simply reflects theses sources of names, and is not meant to be world-representative.
+EoP begins every description with words like "An attacker can...". These have to be phrased as an attack but I was not keen on the anonymous terminology, wanting something more engaging, and therefore used personal names. These can be thought of as external or internal people or aliases for computer systems. But instead of just random names, I thought how they might reflect the OWASP community aspect. Therefore, apart from "Alice and Bob", the original Ecommerce Website Edition used the given (first) names of current and recent OWASP employees and Board members (assigned in no order), and then randomly selected the remaining 50 or so names from the current list of paying individual OWASP members. No name was used more than once, and where people had provided two personal names, we dropped one part to try to ensure no-one can be easily identified. Names were not deliberately allocated to any particular attack, defence or requirement. The cultural and gender mix simply reflects theses sources of names, and is not meant to be world-representative. Some names have been changed over the years to include some more recent project volunteers.
 ### Why aren’t there any images on the card faces?
-There is quite a lot of text on the cards, and the cross-referencing takes up space too. But it would be great to have additional design elements included. Any volunteers?
+There is quite a lot of text on the cards, and the cross-referencing takes up space too. But it would be great to have additional design elements included.
 ### Are the attacks ranked by the number on the card?
 Only approximately. The risk will be application and organisation dependent, due to varying security and compliance requirements, so your own severity rating may place the cards in some other order than the numbers on the cards.
 
@@ -59,32 +59,29 @@ The precise wording will depend how the material is being used or reproduced. Un
 
 > OWASP does not endorse or recommend commercial products or services.
 
-> © 2012-2018 OWASP Foundation
+> © 2012–2024 OWASP Foundation
 
 > This document is licensed under the Creative Commons Attribution-ShareAlike 3.0 license.
 
 > Acknowledgments:
 
-> Microsoft SDL Team for the Elevation of Privilege Threat Modelling Game, published under a Creative Commons Attribution license, as the inspiration for Cornucopia and from which many ideas, especially the game theory, were copied.
+> Current and past OWASP Cornucopia project contributors and leaders, especially those involved most recently updating the cross-references, creating online versions, and writing scripts to dynamically generate Cornucopia's output files.
+
+> Blackfoot UK Limited for creating and donating print-ready design files, Tom Brennan and the OWASP Foundation for instigating the creation of an OWASP-branded box and leaflet.
+
+> OWASP's hard-working employees.
+
+> Adam Shostack and the Microsoft SDL Team for the Elevation of Privilege Threat Modelling Game, published under a Creative Commons Attribution license, as the inspiration for Cornucopia and from which many ideas, especially the game theory, were copied.
 
 > Keith Turpin and contributors to the “OWASP Secure Coding Practices - Quick Reference Guide”, originally donated to OWASP by Boeing, which is used as the primary source of security requirements information to formulate the content of the cards.
 
 > Contributors, supporters, sponsors and volunteers to the OWASP ASVS, AppSensor and Web Framework Security Matrix projects, Mitre’s Common Attack Pattern Enumeration and Classification (CAPEC), and SAFECode’s “Practical Security Stories and Security Tasks for Agile Development Environments” which are all used in the cross-references provided.
 
-> Playgen for providing an illuminating afternoon seminar on task gamification, and tartanmaker.com for the online tool to help create the card back pattern.
-
-> Blackfoot UK Limited for creating and donating print-ready design files, Tom Brennan and the OWASP Foundation for instigating the creation of an OWASP-branded box and leaflet, and OWASP employees, especially Kate Hartmann, for managing the ordering, stocking and despatch of printed card decks.
-
-> Oana Cornea and other participants at the AppSec EU 2015 project summit for their help in creating the demonstration video.
-
-> Colin Watson as author and co-project leader with Darío De Filippis, along with other OWASP volunteers who have helped in many ways.
-
-
 The box/container for the cards must have the wording:
 
 > Created by Colin Watson.
 
-> Contains: One pack of Cornucopia Ecommerce Website playing cards. OWASP Cornucopia is open source and can be downloaded free of charge from the OWASP website.
+> Contains: One pack of Cornucopia (Ecommerce Website or Mobile App) playing cards. OWASP Cornucopia is open source and can be downloaded free of charge from the OWASP website.
 
 > OWASP Cornucopia is free to use. It is licensed under the Creative Commons Attribution-ShareAlike 3.0 license, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
  
@@ -92,20 +89,18 @@ The following short-form wording must also appear on any materials referencing t
 
 > OWASP does not endorse or recommend commercial products or services.
 
-> OWASP Cornucopia is licensed under the Creative Commons Attribution-ShareAlike 3.0 license and is © 2012-2016 OWASP Foundation.
+> OWASP Cornucopia is licensed under the Creative Commons Attribution-ShareAlike 3.0 license and is © 2012–2024 OWASP Foundation.
 
 If any files are distributed electronically, the long-form wording should also be aded in a license.txt file within the distribution.
 
 If the intention is to use the idea only (option 3 above), the long-form, box and short-form wording might be different, and probably simpler. And it might make more sense to start with the Microsoft-provided Elevation of Privilege files (and open source license).
 
 
-#### B - Upcoming update to Cornucopia
+#### B - Cornucopia version
 
-Note that the current print design files are v1.04, and the current Word document is v1.10, but we are in the process of updating all of these to v1.20.
+Whatever version is used as a starting point, please state the source, for example:
 
-Whatever is used as a starting point, please state the source version, for example:
-
-> Based on OWASP Cornucopia Ecommerce Website Edition v1.04
+> Based on OWASP Cornucopia Ecommerce Website Edition v1.30-EN
 
 
 #### C - OWASP brand usage
