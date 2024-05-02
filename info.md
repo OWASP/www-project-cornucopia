@@ -22,7 +22,7 @@
 ### PCIDSS
 
 * [![Cover of  PCI DSS E-commerce Guidelines v2, January 2013](assets/images/Cornucopia-pcidss-ecommerce-guidelines-small.jpg)](https://www.pcisecuritystandards.org/pdfs/PCI_DSS_v2_eCommerce_Guidelines.pdf)
-* OWASP Cornucopia Ecommerce Website Edition is referenced in the [Payment Card Industry Security Standards Council](https://www.pcisecuritystandards.org/) information supplement [PCI DSS E-commerce Guidelines v2](https://www.pcisecuritystandards.org/pdfs/PCI_DSS_v2_eCommerce_Guidelines.pdf), January 2013.
+* OWASP Cornucopia Ecommerce Website Edition was referenced in the [Payment Card Industry Security Standards Council](https://www.pcisecuritystandards.org/) information supplement [PCI DSS E-commerce Guidelines v2](https://www.pcisecuritystandards.org/pdfs/PCI_DSS_v2_eCommerce_Guidelines.pdf), January 2013.
 
 
 ### License
