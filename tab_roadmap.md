@@ -15,14 +15,15 @@ Involvement in the development and promotion of Cornucopia is actively encourage
 
 ### Localization
 
-Are you fluent in another language? Can you help translate Cornucopia into that language? Niote tthis is a very large task due to the number of documents involved.
+Are you fluent in another language? Can you help translate Cornucopia into that language? Note tthis is a very large task due to the number of documents involved, but the strings are now all available in textual data files.
 
 ### Use and Promote the Cornucopia Card Decks
 
-Please help raise awareness of Cornucopia by printing cards:
-* Use Cornucopia with specifiers, architects, designers, developers, testers and others, in part to train them, but also to solicit feedback on their usability, practicality and appropriateness for their work
-* Create video about how to play the game
-* Develop a mobile app to play the game
+Please help raise awareness of Cornucopia by:
+* Printing dcks of cards and giving them away
+* Using Cornucopia with specifiers, architects, designers, developers, testers and others, in part to train them, but also to solicit feedback on their usability, practicality and appropriateness for their work
+* Creating videos about how to play the game
+* Developing a mobile app to play the game
 
 ### Feedback
 
@@ -42,6 +43,6 @@ As the source referenced documents change, we have to update the decks. You may 
 
 ### Create a New Deck
 
-The only version currently available is the Cornucopia Ecommerce Website Edition in English. We would like to create a new mobile app specific deck, probably using the wonderful OWASP Mobile Security Project as inspiration for the card source materials. Do you have an idea for your own application security requirements card deck? Perhaps for mobile apps or something else?
+The first deck is the Cornucopia Ecommerce Website Edition, and is currently available in six languages. There is a mobile app specific deck in progress. Do you have an idea for your own application security requirements card deck? 
 
 
