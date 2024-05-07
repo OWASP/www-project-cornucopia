@@ -42,16 +42,9 @@ Source code to generate the Word document, PDFs and InDesign files for printing 
 The current version of Cornucopia Ecommerce Website Edition cards (v1.21 with updated mapping to ASVS v3.0.1 and CAPEC v2.8, and has some minor text changes on the cards):
 
 *v1.2x (current version)*
-  * DOCX: [EN](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_en_1.21_static.docx), [ES](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_es_1.21_static.docx), [FR](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_fr_1.21_static.docx), [PT-BR](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_pt-br_1.21_static.docx), [NL](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_nl_1.21_static.docx)
-  * Print-ready design files: [EN](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_en_1.21_static.idml), [ES](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_es_1.21_static.docx), [FR](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_fr_1.21_static.idml), [PT-BR](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_pt-br_1.21_static.idml), [NL](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_nl_1.21_static.idml)
+  * DOCX: [EN](https://github.com/OWASP/cornucopia/blob/cb77bca35fbfc24b4960969e17b575d2b226c42b/output/owasp_cornucopia_ecommerce_cards_en_1.21_static.docx), [ES](https://github.com/OWASP/cornucopia/blob/cb77bca35fbfc24b4960969e17b575d2b226c42b/output/owasp_cornucopia_ecommerce_cards_es_1.20_static.docx), [FR](https://github.com/OWASP/cornucopia/blob/cb77bca35fbfc24b4960969e17b575d2b226c42b/output/owasp_cornucopia_ecommerce_cards_fr_1.20_static.docx), [PT-BR](https://github.com/OWASP/cornucopia/blob/cb77bca35fbfc24b4960969e17b575d2b226c42b/output/owasp_cornucopia_ecommerce_cards_pt-br_1.20_static.docx), [NL](https://github.com/OWASP/cornucopia/blob/cb77bca35fbfc24b4960969e17b575d2b226c42b/output/owasp_cornucopia_ecommerce_cards_nl_1.21_static.docx)
+  * Print-ready design files: [EN](https://github.com/OWASP/cornucopia/blob/cb77bca35fbfc24b4960969e17b575d2b226c42b/output/owasp_cornucopia_ecommerce_cards_en_1.21_dynamic.idml), [ES](https://github.com/OWASP/cornucopia/blob/cb77bca35fbfc24b4960969e17b575d2b226c42b/output/owasp_cornucopia_ecommerce_cards_es_1.20_static.idml), [FR](https://github.com/OWASP/cornucopia/blob/cb77bca35fbfc24b4960969e17b575d2b226c42b/output/owasp_cornucopia_ecommerce_cards_fr_1.20_static.idml), [PT-BR](https://github.com/OWASP/cornucopia/blob/cb77bca35fbfc24b4960969e17b575d2b226c42b/output/owasp_cornucopia_ecommerce_cards_pt-br_1.20_static.idml), [NL](https://github.com/OWASP/cornucopia/blob/cb77bca35fbfc24b4960969e17b575d2b226c42b/output/owasp_cornucopia_ecommerce_cards_nl_1.21_static.idml)
 
 **Cornucopia - Mobile App Edition:**
 
 Coming soon!
-
-
-
-
-
-
-
