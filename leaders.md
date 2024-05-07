@@ -1,7 +1,7 @@
 ### Leaders
 
-* [Grant Ongers](mailto:grant.ongers@owasp.org)
 * [Colin Watson](mailto:colin.watson@owasp.org)
+* [Grant Ongers](mailto:grant.ongers@owasp.org)
 
 ### Core Team
 
