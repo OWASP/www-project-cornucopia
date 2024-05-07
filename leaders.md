@@ -5,8 +5,8 @@
 
 ### Core Team
 
-* [Johan Sydseter](johan.sydseter@owasp.org)
-* [Xavier Godard](xavier.godard@owasp.org)
+* [Johan Sydseter](mailto:johan.sydseter@owasp.org)
+* [Xavier Godard](mailto:xavier.godard@owasp.org)
 
 ### Former leaders
 
