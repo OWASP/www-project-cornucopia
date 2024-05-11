@@ -15,6 +15,8 @@ type: documentation
 [![Maintainability](https://api.codeclimate.com/v1/badges/4a7cda6ef1c2932a34f9/maintainability)](https://codeclimate.com/github/OWASP/cornucopia/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/4a7cda6ef1c2932a34f9/test_coverage)](https://codeclimate.com/github/OWASP/cornucopia/test_coverage)
 
+<img src="assets/images/cornucopia_logo.svg" width="150">
+
 ![OWASP Cornucopia Website App Edition playing cards](assets/images/Cornucopia-header.jpg)
 
 OWASP Cornucopia is a mechanism in the form of a card game to assist software development teams identify security requirements in Agile, conventional and formal development processes. It is language, platform and technology-agnostic.
