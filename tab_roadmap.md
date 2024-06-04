@@ -7,7 +7,24 @@ order: 5
 tags: cc
 ---
 
-## Road Map and Getting Involved
+## Road Map
+
+### v2.x
+
+Below is a preliminary summary of our wishes, dreams and aspirations for Cornucopia. If you have suggestions, ideas, please feel free to discuss them on our [email list](https://groups.google.com/a/owasp.org/g/cornucopia-project) or submit them to our [list of issues](https://github.com/OWASP/cornucopia/issues) in our repository. 
+If you feel like and have the oportunity to help with any of the issues below, do not hesitate to get in touch.
+
+Ordered alphabeticly and not according to priority.
+
+- Build the requirement map on the card using OpenCRE for easier maintainence and collaboration. [cornucopia #595](https://github.com/OWASP/cornucopia/issues/595)
+- Endpoint per card with more information available on copi. [copi #6](https://github.com/secure-delivery/copi/issues/6)
+- Ensure the converter can create print-ready proofs for print-on-demand jobs. [](https://github.com/OWASP/cornucopia/issues/583)
+- Include QR codes on the Cornucopia cards. [cornucopia #382](https://github.com/OWASP/cornucopia/issues/382)
+- Language review of the translations. [cornucopia #596](https://github.com/OWASP/cornucopia/issues/596)
+- Migrate the wiki deck to github wiki. [cornucopia #1](https://github.com/OWASP/www-project-cornucopia/issues/1)
+
+
+## Getting Involved
 
 <img src="assets/images/Cornucopia-card-authentication-7.png" alt="Cornucopia Card Authentication - 7" class="fa-pull-right" style="padding:1em;background-color:#dddddd;margin:0 0 1em 2em;">
 
@@ -44,5 +61,3 @@ As the source referenced documents change, we have to update the decks. You may 
 ### Create a New Deck
 
 The first deck is the Cornucopia Ecommerce Website Edition, and is currently available in six languages. There is a mobile app specific deck in progress. Do you have an idea for your own application security requirements card deck? 
-
-
