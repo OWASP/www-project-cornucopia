@@ -60,4 +60,4 @@ As the source referenced documents change, we have to update the decks. You may 
 
 ### Create a New Deck
 
-The first deck is the Cornucopia Ecommerce Website Edition, and is currently available in six languages. There is a mobile app specific deck in progress. Do you have an idea for your own application security requirements card deck? 
+The first deck, Cornucopia Ecommerce Website Edition, has been renamed Cornucopia Website App Edition and is currently available in six languages. There is also a mobile app specific deck called Cornucopia Mobile App Edition available in english only. Do you have an idea for your own application security requirements card deck? 
