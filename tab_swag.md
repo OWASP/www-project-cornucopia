@@ -1,5 +1,5 @@
 ---
-title: Prizes and Swags
+title: Swag
 displaytext: Prizes and Swags
 layout: null
 tab: true
