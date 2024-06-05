@@ -52,7 +52,7 @@ Instead of EoP’s STRIDE suits, Cornucopia suits for the Website App Edition we
 Each suit contains 13 cards (Ace, 2-10, Jack, Queen and King) but, unlike EoP, there are also two Joker cards. The content was mainly drawn from the SCP. Full Wiki Deck.
 
 ### Mobile App Edition
-The second Cornucopia deck, the "Mobile App Edition", followes the same principles and game rules, but has different suits based on the MASVS categories in addition to the Cornucopia suit.
+The second Cornucopia deck, the "Mobile App Edition", follows the same principles and game rules, but has different suits based on the MASVS categories in addition to the Cornucopia suit.
 
 ## Mappings
 The other driver for Cornucopia was to link the attacks with requirements and verification techniques. An initial aim had been to reference [CWE](http://cwe.mitre.org/) weakness IDs, but these proved too numerous, and instead it was decided to map each card to [CAPEC](http://capec.mitre.org/) software attack pattern IDs which themselves are mapped to CWEs, so the desired result is achieved.
