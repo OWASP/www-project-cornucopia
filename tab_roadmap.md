@@ -20,9 +20,9 @@ Ordered alphabeticly and not according to priority.
 - Endpoint per card with more information available on copi. [copi #6](https://github.com/secure-delivery/copi/issues/6)
 - Ensure the converter can create print-ready proofs for print-on-demand jobs. [](https://github.com/OWASP/cornucopia/issues/583)
 - Include QR codes on the Cornucopia cards. [cornucopia #382](https://github.com/OWASP/cornucopia/issues/382)
-- Language review of the translations. [cornucopia #596](https://github.com/OWASP/cornucopia/issues/596)
+- Language review of the existing translations. [cornucopia #596](https://github.com/OWASP/cornucopia/issues/596)
 - Migrate the wiki deck to github wiki. [cornucopia #1](https://github.com/OWASP/www-project-cornucopia/issues/1)
-
+- Seek worldwide translators and incorporate additional translations for other languages.
 
 ## Getting Involved
 
@@ -32,7 +32,7 @@ Involvement in the development and promotion of Cornucopia is actively encourage
 
 ### Localization
 
-Are you fluent in another language? Can you help translate Cornucopia into that language? Note tthis is a very large task due to the number of documents involved, but the strings are now all available in textual data files.
+Are you fluent in another language? Can you help translate Cornucopia into that language? Note this is a very large task due to the number of documents involved, but the strings are now all available in textual data files.
 
 ### Use and Promote the Cornucopia Card Decks
 
@@ -60,4 +60,4 @@ As the source referenced documents change, we have to update the decks. You may 
 
 ### Create a New Deck
 
-The first deck, Cornucopia Ecommerce Website Edition, has been renamed Cornucopia Website App Edition and is currently available in six languages. There is also a mobile app specific deck called Cornucopia Mobile App Edition available in english only. Do you have an idea for your own application security requirements card deck? 
+The first deck, Cornucopia Ecommerce Website Edition, has been renamed Cornucopia Website App Edition and is currently available in six languages. There is also a mobile app specific deck called Cornucopia Mobile App Edition available in English only. Do you have an idea for your own application security requirements card deck? 
