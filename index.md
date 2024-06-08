@@ -38,9 +38,11 @@ To start using Cornucopia:
 8. Remember, points make prizes!
 
 ## The Card Decks
+Both current decks have six suits and there are also two Joker cards. Each suit contains 13 cards (Ace, 2-10, Jack, Queen and King).
+
 ### Website App Edition (previously called Ecommerce Website Edition)
 
-Instead of EoP’s STRIDE suits, Cornucopia suits for the Website App Edition were selected based on the structure of the OWASP Secure Coding Practices - Quick Reference Guide (SCP), but with additional consideration of sections in the [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/), the [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide) and David Rook's [Principles of Secure Development](https://owasp.org/www-pdf-archive//OWASP-SecureDevPrinciples-David-Rook.pdf). These provided five suits, and a sixth called “Cornucopia” was created for everything else:
+Instead of EoP’s STRIDE suits, Cornucopia suits for the Website App Edition were selected based on the structure of the OWASP Secure Coding Practices - Quick Reference Guide (SCP). The content was mainly drawn from the SCP but with additional consideration of sections in the [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/), the [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide) and David Rook's [Principles of Secure Development](https://owasp.org/www-pdf-archive//OWASP-SecureDevPrinciples-David-Rook.pdf). These provided five suits, and a sixth called “Cornucopia” was created for everything else:
 
 * Data validation and encoding
 * Authentication
@@ -49,15 +51,23 @@ Instead of EoP’s STRIDE suits, Cornucopia suits for the Website App Edition we
 * Cryptography
 * Cornucopia
 
-Each suit contains 13 cards (Ace, 2-10, Jack, Queen and King) but, unlike EoP, there are also two Joker cards. The content was mainly drawn from the SCP. Full Wiki Deck.
-
 ### Mobile App Edition
-The second Cornucopia deck, the "Mobile App Edition", follows the same principles and game rules, but has different suits based on the MASVS categories in addition to the Cornucopia suit.
+The second Cornucopia deck, the "Mobile App Edition", follows the same principles and game rules as the original OWASP Cornucopia, but has different suits based on the MASVS categories, in addition to the Cornucopia suit:
+
+* Platform & Code
+* Authentication & Authorization
+* Network & Storage
+* Resilience
+* Cryptography
+* Cornucopia
 
 ## Mappings
 The other driver for Cornucopia was to link the attacks with requirements and verification techniques. An initial aim had been to reference [CWE](http://cwe.mitre.org/) weakness IDs, but these proved too numerous, and instead it was decided to map each card to [CAPEC](http://capec.mitre.org/) software attack pattern IDs which themselves are mapped to CWEs, so the desired result is achieved.
 
 Each Website App Edition card is also mapped to the 36 primary security stories in the [SAFECode document](https://safecode.org/resource-secure-development-practices/fundamental-practices-secure-software-development-2/), as well as to the OWASP [SCP](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/) v2, [ASVS](https://owasp.org/www-project-application-security-verification-standard/) v4.0.3 and [AppSensor](https://owasp.org/www-project-appsensor/) (application attack detection and response) to help teams create their own security-related stories for use in Agile processes.
+
+Likewise, each Mobile App Edition is mapped to CAPEC and the SAFECode stories, but instead of SCP, ASVS and AppSensor, each card is mapped to OWASP's [Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/) v2.0 and [Mobile Application Security Testing Guide (MASTG)](https://mas.owasp.org/MASTG/) v2.0. 
+
 
 ## Licensing
 
