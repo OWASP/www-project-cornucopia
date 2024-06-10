@@ -9,7 +9,7 @@ tags: cc
 
 ## How to Play
 
-It is possible to play Cornucopia in many different ways. Here is one way, and explained in a [YouTube video](https://youtu.be/BZVoQurTEMc).
+It is possible to play Cornucopia in many different ways. Here is one way, and explained in a [YouTube video](https://www.youtube.com/watch?v=XXTPXozIHow).
 
 ### Primary method
 
