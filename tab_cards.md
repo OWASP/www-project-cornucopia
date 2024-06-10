@@ -14,7 +14,7 @@ tags: cc
 The primary source document is a [Word document](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_webapp_guide_en_v2.00_static.docx). 
 
 However, pre-printed card decks may be more useful, or there are links to the source design files for the cards themselves (see links underneath).
-You can also choose to play the OWASP Cornucopia Website App Edition and Mobile App Edition online at https://copi.owasp.org
+You can also choose to play the OWASP Cornucopia Website App Edition and Mobile App Edition online at [copi.owasp.org](https://copi.owasp.org)
 
 ### Printed
 
