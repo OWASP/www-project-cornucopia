@@ -5,7 +5,7 @@ title: OWASP Cornucopia
 site_side: true
 tags: cc
 project: true
-level: 3
+level: 3.5
 type: documentation
 
 ---
