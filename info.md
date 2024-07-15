@@ -3,14 +3,14 @@
     * [Project Team: v1.00](https://youtu.be/i5Y0akWj31k)
     * [RBI Version: v1.20](https://youtu.be/BZVoQurTEMc)
 * [Scoresheet](assets/files/Cornucopia-scoresheet.pdf)
-* [All sources and downloads...](/www-project-cornucopia#div-cards)
+* [All sources and downloads...](https://github.com/OWASP/cornucopia)
 
 ### What is Cornucopia?
 * OWASP Cornucopia is a card game used to help derive application security requirements during the software development life cycle. 
 * Listen to the [OWASP 24/7 Podcast](http://trustedsoftwarealliance.com/2014/03/21/the-owasp-cornucopia-project-with-colin-watson/) about Cornucopia.
 
 ### Project Information
-* <i class="fas fa-flask" style="font-size: 1.2em; color:#FFA500;"></i><span style="font-size:1.0em;padding-left:12px;">Lab Project</span>
+* <i class="fas fa-city" style="font-size: 1.2em; color:#FFA500;"></i><span style="font-size:1.0em;padding-left:12px;">Production Project</span>
 * <i class="fas fa-book" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Documentation</span>
 * <i class="fas fa-tools" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Builder</span> 
 * <i class="fas fa-shield-alt" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Defender</span>
