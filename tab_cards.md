@@ -11,7 +11,10 @@ tags: cc
 
 <img src="assets/images/Cornucopia-square-logo-350.jpg" alt="OWASP Cornucopia deck and cards" class="fa-pull-right" style="margin:0 0 1em 2em;">
 
-The primary source document is a [Word document](https://github.com/OWASP/cornucopia/tree/master/output). However, pre-printed card decks may be more useful, or there are links to the source design files for the cards themselves.
+The primary source document is a [Word document](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_webapp_v2.00_guide_bridge_en.docx). 
+
+However, pre-printed card decks may be more useful, or there are links to the source design files for the cards themselves (see links underneath).
+You can also choose to play the OWASP Cornucopia Website App Edition and Mobile App Edition online at [copi.owasp.org](https://copi.owasp.org)
 
 ### Printed
 
@@ -20,25 +23,39 @@ The primary source document is a [Word document](https://github.com/OWASP/cornuc
 <!--    * [reach out](mailto:cornucopia@securedelivery.io?subject=Cornucopia) to [Secure Delivery](https://securedelivery.io); or -->
 <!--    * [contact](mailto:kcollier@equalexperts.com?subject=Cornucopia) the team at [Equal Experts](https://www.equalexperts.com/) for a deck -->
 
-OWASP does not endorse or recommend commercial products or services, however, [Agile Stationary](https://agilestationery.co.uk/) offer [large print (v1.20) decks](https://agilestationery.co.uk/products/owasp-cornucopia-card-deck-ecommerce-website-edition) at a discount to OWASP Members. They also offer a [croupier](https://croupier.agilestationery.co.uk/) to help you distribute cards to team members. Also, [dotNET lab](https://www.dotnetlab.eu/) sell a [printed deck](https://webshop.dotnetlab.eu/product/cornucopia-card-deck/) which complements their [online reference](https://cornucopia.dotnetlab.eu/cards).
+OWASP no longer has a stock of printed decks.
+
+OWASP does not endorse or recommend commercial products or services. However, [Agile Stationary](https://agilestationery.co.uk/) offer [large print (v1.20) decks](https://agilestationery.co.uk/products/owasp-cornucopia-card-deck-ecommerce-website-edition) at a discount to OWASP Members. They also offer a [croupier](https://croupier.agilestationery.co.uk/) to help you distribute cards to team members. Also, [dotNET lab](https://www.dotnetlab.eu/) sell a [printed deck](https://webshop.dotnetlab.eu/product/cornucopia-card-deck/) which complements their [online reference](https://cornucopia.dotnetlab.eu/cards).
+
+### Print your own
+
+There are many ways to print copies of the card decks yourself:
+
+1. Download the free Adobe Illustrator files and get them professionally printed;
+1. Print the Word document onto business card blanks;
+1. Print the Word document onto normal card and cut the cards out individually using the guide; or
+1. Generate your own cards from the free source XML data file in the repository.
 
 ### Source files
 
-Cornucopia - Ecommerce Website Edition:
+Source code to generate the Word document, PDFs and InDesign files for printing are maintained in our [Github repository](https://github.com/OWASP/cornucopia/releases)
+Regarding printing the decks. Please read: https://github.com/OWASP/cornucopia?tab=readme-ov-file#printing
 
-*v1.2x (current version)*
-  * DOCX: [EN](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_en_1.21_static.docx), [ES](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_es_1.21_static.docx), [FR](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_fr_1.21_static.docx), [PT-BR](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_pt-br_1.21_static.docx), [NL](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_nl_1.21_static.docx)
-  * Print-ready design files: [EN](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_en_1.21_static.idml), [ES](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_es_1.21_static.docx), [FR](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_fr_1.21_static.idml), [PT-BR](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_pt-br_1.21_static.idml), [NL](https://github.com/OWASP/cornucopia/blob/master/output/owasp_cornucopia_ecommerce_cards_nl_1.21_static.idml)
+**Cornucopia - Ecommerce Website Edition:**
 
-The current version of Cornucopia Ecommerce Website Edition cards (v1.21 with updated mapping to ASVS v3.0.1 and CAPEC v2.8, and has some minor text changes on the cards) can be printed using the following methods:
+The current version of Cornucopia Website App Edition guides with cards (v2.00 with updated mapping to ASVS v4.0.3):
 
-1. Download the free Adobe Illustrator files and get them professionally printed
-1. Download and self-print the free document word-processing or PDF
- 1. Print the document onto business card blank cards; or
- 1. Print the document onto normal card and cut the cards out individually using the guide; or
-1. Generate your own cards from the free source XML data file
+*v2.0x (current version)*
+  * DOCX: [EN](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_webapp_v2.00_guide_bridge_en.docx), [ES](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_webapp_v2.00_guide_bridge_es.docx), [FR](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_webapp_v2.00_guide_bridge_fr.docx), [PT-BR](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_webapp_v2.00_guide_bridge_pt-br.docx), [NL](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_webapp_v2.00_guide_bridge_nl.docx), [NO-NB](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_webapp_v2.00_guide_bridge_no-nb.docx)
 
-There are also other ways to obtain particular versions.
-
-
-
+*Print-ready design files*
+  * Website App Edition 2.0 card decks and leaflets: [EN](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_webapp_2.00_en.zip), [ES](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_webapp_2.00_es.zip), [FR](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_webapp_2.00_fr.zip), [PT-BR](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_webapp_2.00_pt-br.zip), [NL](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_webapp_2.00_nl.zip), [NO-NB](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_webapp_2.00_no-nb.zip)
+  * Mobile App Edition 1.0 card decks and leaflets: [EN](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_mobileapp_1.00_en.zip)
+  
+*Print ready files printed in time for OWASP Global AppSec 2024 Lisbon (EN)*
+  * [Mobile App Edition 1.0 tarot case](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_global_appsec_lisbon_mobileapp_1.00_case_tarot_en.pdf)
+  * [Mobile App Edition 1.0 tarot leaflet](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_global_appsec_lisbon_mobileapp_1.00_leaflet_tarot_en.pdf)
+  * [Mobile App Edition 1.0 tarot card deck](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_global_appsec_lisbon_mobileapp_1.00_cards_tarot_en.pdf)
+  * [Website App Edition 2.0 tarot case](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_global_appsec_lisbon_webapp_2.00_case_tarot_en.pdf)
+  * [Website App Edition 2.0 tarot leaflet](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_global_appsec_lisbon_webapp_2.00_leaflet_tarot_en.pdf)
+  * [Website App Edition 2.0 tarot card deck](https://github.com/OWASP/cornucopia/releases/download/v2.0.0/owasp_cornucopia_global_appsec_lisbon_webapp_2.00_cards_tarot_en.pdf)

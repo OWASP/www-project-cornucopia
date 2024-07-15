@@ -9,7 +9,7 @@ tags: cc
 
 ## How to Play
 
-It is possible to play Cornucopia in many different ways. Here is one way, and explained in a [YouTube video](https://youtu.be/BZVoQurTEMc).
+It is possible to play Cornucopia in many different ways. Here is one way, and explained in a [YouTube video](https://www.youtube.com/watch?v=XXTPXozIHow).
 
 ### Primary method
 
@@ -25,7 +25,7 @@ A3.	Create a data flow diagram
 
 A4.	Identify and invite a group of 3-6 architects, developers, testers and other business stakeholders together and sit around a table (try to include someone fairly familiar with application security)
 
-A5.	Have some prizes to hand (gold stars, chocolate, pizza, beer or flowers depending upon your office culture)
+A5.	Have some prizes to hand (gold stars, chocolate, pizza, beer or flowers depending upon your office culture). See our "Prizes and Swags" section for ideas.
 
 #### B - Play
 
