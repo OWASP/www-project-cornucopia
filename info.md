@@ -4,7 +4,8 @@
 * How to Play video:
     * [Project Team: v1.00](https://youtu.be/i5Y0akWj31k)
     * [RBI Version: v1.20](https://youtu.be/BZVoQurTEMc)
-* [Scoresheet](assets/files/Cornucopia-scoresheet.pdf)
+* [Scoresheet (website app)](assets/files/Cornucopia-scoresheet.pdf)
+* [Scoresheet (mobile app)](assets/files/cornucopia-scoresheet-mobileapp.pdf)
 * [All sources and downloads...](https://github.com/OWASP/cornucopia)
 
 ### What is Cornucopia?
