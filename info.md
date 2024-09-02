@@ -6,9 +6,10 @@
     * [RBI Version: v1.24](https://youtu.be/XXTPXozIHow)
 * OWASP Conferences:
     * [OWASP Global AppSec - Lisbon - 2024](https://youtu.be/7ZfJBZBY7Bw)
-* [Scoresheet (website app)](assets/files/Cornucopia-scoresheet.pdf)
-* [Scoresheet (mobile app)](assets/files/cornucopia-scoresheet-mobileapp.pdf)
-* [All sources and downloads...](https://github.com/OWASP/cornucopia)
+* Sources and material: 
+  * [Scoresheet (website app)](assets/files/Cornucopia-scoresheet.pdf)
+  * [Scoresheet (mobile app)](assets/files/cornucopia-scoresheet-mobileapp.pdf)
+  * [All sources and downloads...](https://github.com/OWASP/cornucopia)
 
 ### What is Cornucopia?
 * OWASP Cornucopia is a card game used to help derive application security requirements during the software development life cycle. 
