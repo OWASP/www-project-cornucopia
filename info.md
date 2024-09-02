@@ -4,7 +4,7 @@
 * How to Play video:
     * [Project Team: v1.00](https://youtu.be/i5Y0akWj31k)
     * [RBI Version: v1.24](https://youtu.be/XXTPXozIHow)
-* OWASP Conferences 
+* OWASP Conferences:
     * [OWASP Global AppSec - Lisbon - 2024](https://youtu.be/7ZfJBZBY7Bw)
 * [Scoresheet (website app)](assets/files/Cornucopia-scoresheet.pdf)
 * [Scoresheet (mobile app)](assets/files/cornucopia-scoresheet-mobileapp.pdf)
