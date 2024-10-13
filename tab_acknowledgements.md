@@ -24,6 +24,7 @@ Cornucopia is developed, maintained, updated and promoted by a worldwide team of
 * Oana Cornea
 * Johanna Curiel
 * Todd Dahl
+* Ruggero DallAglio
 * Luis Enriquez
 * Ken Ferris
 * Darío De Filippis
