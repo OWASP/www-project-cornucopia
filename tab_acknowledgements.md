@@ -26,7 +26,7 @@ Cornucopia is developed, maintained, updated and promoted by a worldwide team of
 * Todd Dahl
 * Ruggero DallAglio
 * Luis Enriquez
-* Andre Ferreira
+* André Ferreira
 * Ken Ferris
 * Darío De Filippis
 * Norbert Gaspar
