@@ -11,7 +11,7 @@ tags: cc
 
 <img src="assets/images/Cornucopia-square-logo-350.jpg" alt="OWASP Cornucopia deck and cards" class="fa-pull-right" style="margin:0 0 1em 2em;">
 
-The primary source document is a [Word document]([(https://github.com/OWASP/cornucopia/releases/tag/v2.0.0]). 
+The primary source document is a [Word document](https://github.com/OWASP/cornucopia/releases/tag/v2.0.0). 
 
 However, pre-printed card decks may be more useful, or there are links to the source design files for the cards themselves (see links underneath).
 You can also choose to play the OWASP Cornucopia Website App Edition and Mobile App Edition online at [copi.owasp.org](https://copi.owasp.org)
