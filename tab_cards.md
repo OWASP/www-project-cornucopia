@@ -25,7 +25,7 @@ You can also choose to play the OWASP Cornucopia Website App Edition and Mobile 
 
 OWASP no longer has a stock of printed decks.
 
-OWASP does not endorse or recommend commercial products or services. However, [Agile Stationary](https://agilestationery.co.uk/) offer [large print (v1.20) decks](https://agilestationery.co.uk/products/owasp-cornucopia-card-deck-ecommerce-website-edition) at a discount to OWASP Members. They also offer a [croupier](https://croupier.agilestationery.co.uk/) to help you distribute cards to team members. Also, [dotNET lab](https://www.dotnetlab.eu/) sell a [printed deck](https://webshop.dotnetlab.eu/product/cornucopia-card-deck/) which complements their [online reference](https://cornucopia.dotnetlab.eu/cards).
+OWASP does not endorse or recommend commercial products or services. However, [Agile Stationary](https://agilestationery.co.uk/) offer [large print (v2.0) web app decks](https://agilestationery.com/products/owasp-cornucopia-2-0-website-app-edition-threat-modeling-cards?_pos=2&_psq=cornucipia&_ss=e&_v=1.0) and [large print (v1.0) mobile app decks](https://agilestationery.com/products/owasp-cornucopia-mobile-app-edition-threat-modeling-cards?_pos=3&_psq=cornucip&_ss=e&_v=1.0). They also offer a [croupier](https://croupier.agilestationery.co.uk/) to help you distribute cards to team members. Also, [dotNET lab](https://www.dotnetlab.eu/) sell a [printed deck](https://webshop.dotnetlab.eu/product/cornucopia-card-deck/) which complements their [online reference](https://cornucopia.dotnetlab.eu/cards).
 
 ### Print your own
 
