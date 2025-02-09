@@ -35,4 +35,4 @@ No. A smaller deck is quicker to play. Start your first game with only enough ca
 ### What should players do when they have an Ace card that says “invented a new X attack”?
 The player can make up any attack they think is valid, but must match the suit of the card e.g. data validation and encoding). With players new to the game, it can be better to remove these to begin with.
 ### I don’t understand what the attack means on each card - is there more detailed information?
-Yes, the Wiki Deck at was created to help players understand the attacks. See Wiki Deck.
+Yes, the card browser on our website has more information on what each card means. The website was created to help players understand the attacks. See [cornucopia.owasp.org](https://cornucopia.owasp.org/cards).
