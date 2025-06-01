@@ -19,9 +19,9 @@ Ordered alphabetically and not according to priority.
 - Build the requirement map on the card using OpenCRE for easier maintainence and collaboration. [cornucopia #595](https://github.com/OWASP/cornucopia/issues/595)
 - Endpoint per card with more information available on copi. [copi #6](https://github.com/secure-delivery/copi/issues/6)
 - Ensure the converter can create print-ready proofs for print-on-demand jobs. [](https://github.com/OWASP/cornucopia/issues/583)
-- Include QR codes on the Cornucopia cards. [cornucopia #382](https://github.com/OWASP/cornucopia/issues/382)
+- Include QR codes on the Cornucopia cards. [cornucopia #382](https://github.com/OWASP/cornucopia/issues/382) :heavy_check_mark:
 - Language review of the existing translations. [cornucopia #596](https://github.com/OWASP/cornucopia/issues/596)
-- Migrate the wiki deck to github wiki. [cornucopia #1](https://github.com/OWASP/www-project-cornucopia/issues/1)
+- Migrate the wiki deck to github wiki. [cornucopia #1](https://github.com/OWASP/www-project-cornucopia/issues/1) :heavy_check_mark:
 - Seek worldwide translators and incorporate additional translations for other languages.
 
 ## Getting Involved
