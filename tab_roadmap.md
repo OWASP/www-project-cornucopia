@@ -12,9 +12,9 @@ tags: cc
 ### v2.x
 
 Below is a preliminary summary of our wishes, dreams and aspirations for Cornucopia. If you have suggestions, ideas, please feel free to discuss them on our [email list](https://groups.google.com/a/owasp.org/g/cornucopia-project) or submit them to our [list of issues](https://github.com/OWASP/cornucopia/issues) in our repository. 
-If you feel like and have the oportunity to help with any of the issues below, do not hesitate to get in touch.
+If you feel like and have the opportunity to help with any of the issues below, do not hesitate to get in touch.
 
-Ordered alphabeticly and not according to priority.
+Ordered alphabetically and not according to priority.
 
 - Build the requirement map on the card using OpenCRE for easier maintainence and collaboration. [cornucopia #595](https://github.com/OWASP/cornucopia/issues/595)
 - Endpoint per card with more information available on copi. [copi #6](https://github.com/secure-delivery/copi/issues/6)
@@ -37,7 +37,7 @@ Are you fluent in another language? Can you help translate Cornucopia into that 
 ### Use and Promote the Cornucopia Card Decks
 
 Please help raise awareness of Cornucopia by:
-* Printing dcks of cards and giving them away
+* Printing decks of cards and giving them away
 * Using Cornucopia with specifiers, architects, designers, developers, testers and others, in part to train them, but also to solicit feedback on their usability, practicality and appropriateness for their work
 * Creating videos about how to play the game
 * Developing a mobile app to play the game
@@ -48,7 +48,7 @@ Please help raise awareness of Cornucopia by:
 
 Please use the friendly project [Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/cornucopia-project) for feedback:
 
-* What do like?
+* What do you like?
 * What don't you like?
 * What cards don't make sense?
 * How could the guidance be improved?
