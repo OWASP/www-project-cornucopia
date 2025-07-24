@@ -7,6 +7,7 @@ tags: cc
 project: true
 level: 3.5
 type: documentation
+pitch: OWASP Cornucopia provides card game decks to assist the whole software development team undertake threat modeling of applications
 
 ---
 
