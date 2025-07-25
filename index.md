@@ -7,7 +7,7 @@ tags: cc
 project: true
 level: 3.5
 type: documentation
-pitch: OWASP Cornucopia provides card game decks (printable cards, online cards, online game) to assist the whole software development team undertake threat modeling of applications (currently: website apps, mobile apps)
+pitch: OWASP Cornucopia provides card game decks (printable cards, online cards, online game) to assist the whole software development team undertake threat modeling of applications (currently website apps and mobile apps)
 
 ---
 
