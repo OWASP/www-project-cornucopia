@@ -1,0 +1,30 @@
+audience:
+  - builder
+  - defender
+leaders:
+  - name: Colin Watson
+    email: colin.watson@owasp.org
+    github: coj337
+  - name: Grant Ongers
+    email: grant.ongers@owasp.org
+    github: rewtd
+  - name: Johan Sydseter
+    email: johan.sydseter@owasp.org
+    github: sydseter
+level: 3.5
+name: OWASP Cornucopia
+pitch: OWASP Cornucopia provides card game decks (printable cards, online cards, online game) to assist the whole software development team undertake threat
+  modeling of applications (currently website apps and mobile apps)
+repositories:
+  - name: www-project-cornucopia
+    url: https://github.com/OWASP/www-project-cornucopia
+    description: OWASP Foundation Web Repository
+  - name: cornucopia
+    url: https://github.com/OWASP/cornucopia
+    description: The source files and tools needed to build the OWASP Cornucopia decks in various languages
+tags:
+  - cc
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-cornucopia
