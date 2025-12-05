@@ -21,7 +21,7 @@ pitch: OWASP Cornucopia provides card game decks (printable cards, online cards,
 OWASP Cornucopia is a mechanism in the form of a card game to assist software development teams identify security requirements in Agile, conventional and formal development processes. It is language, platform and technology-agnostic.
 
 ## Introduction
-The idea behind Cornucopia is to help development teams, especially those using Agile methodologies, to identify application security requirements and develop security-based user stories. Although the idea had been waiting for enough time to progress it, the final motivation came when [SAFECode](http://www.safecode.org/) published its [Practical Security Stories and Security Tasks for Agile Development Environments](https://safecode.org/publication/SAFECode_Agile_Dev_Security0712.pdf) in July 2012. Cornucopia was created and first used for developer training in August 2012.
+The idea behind Cornucopia is to help development teams, especially those using Agile methodologies, to identify application security requirements and develop security-based user stories. Although the idea had been waiting for enough time to progress it, the final motivation came when [SAFECode](http://www.safecode.org/) published its [Practical Security Stories and Security Tasks for Agile Development Environments](https://safecode.org/publication/SAFECode_Agile_Dev_Security0712.pdf) in July 2012. Cornucopia was created and first used for developer training in August 2012. The prject has undergone significant development and growth, particularly in 2023, 2024 and 2025.
 
 To start using OWASP Cornucopia or find out more about the game please visit [cornucopia.owasp.org](https://cornucopia.owasp.org/)
 
