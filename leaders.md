@@ -6,8 +6,6 @@
 
 ### Core Team
 
-* [Jef Meijvis](mailto:jef.meijvis@owasp.org)
-
 ### Former leaders
 
 * Dario De Filippis
