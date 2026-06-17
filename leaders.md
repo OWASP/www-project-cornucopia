@@ -6,7 +6,6 @@
 
 ### Core Team
 
-* [Xavier Godard](mailto:xavier.godard@owasp.org)
 * [Jef Meijvis](mailto:jef.meijvis@owasp.org)
 
 ### Former leaders
